@@ -1,2 +1,2 @@
 # hello-world
-A basic repo
+This is a tutorial repository.
